@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://mern1db:mern1password@cluster0-3y2cb.azure.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
